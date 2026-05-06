@@ -20,8 +20,6 @@ Backend developer focused on building **real-time, scalable systems** with clean
 - 🔭 Currently building **CharacterAnswers** — an AI-powered character chat platform
 - ⚡ Designing room-based real-time communication systems from scratch
 - 🔐 Deep-diving into secure backend design: JWT, session management, auth flows
-- 📐 Leveling up in **system design** and **NestJS**
-- 🌏 Based in Nepal, building for the world
 
 ---
 
@@ -49,7 +47,7 @@ Backend developer focused on building **real-time, scalable systems** with clean
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Frontend (when needed)**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
