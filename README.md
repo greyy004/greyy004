@@ -23,7 +23,7 @@ Backend developer focused on building **real-time, scalable systems** with clean
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -68,8 +68,8 @@ Backend developer focused on building **real-time, scalable systems** with clean
 
 ##  2026 Goals
 
-- [ ] Ship **CharacterAnswers** publicly
-- [ ] Master distributed systems & system design fundamentals
-- [ ] Build a production-grade NestJS service
-- [ ] Make meaningful open source contributions
+-  Ship **CharacterAnswers** publicly
+-  Master distributed systems & system design fundamentals
+-  Build a production-grade NestJS service
+-  Make meaningful open source contributions
 
