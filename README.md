@@ -66,7 +66,7 @@ Backend developer focused on building **real-time, scalable systems** with clean
 
 ---
 
-##  2025 Goals
+##  2026 Goals
 
 - [ ] Ship **CharacterAnswers** publicly
 - [ ] Master distributed systems & system design fundamentals
