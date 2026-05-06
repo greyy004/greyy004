@@ -1,17 +1,8 @@
 <div align="center">
 
-```
-██╗   ██╗██╗   ██╗██╗    ██╗ █████╗
-╚██╗ ██╔╝██║   ██║██║    ██║██╔══██╗
- ╚████╔╝ ██║   ██║██║ █╗ ██║███████║
-  ╚██╔╝  ██║   ██║██║███╗██║██╔══██║
-   ██║   ╚██████╔╝╚███╔███╔╝██║  ██║
-   ╚═╝    ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝
-```
-
 # Hi, I'm Yuwa Shrestha 👾
 
-**Backend Developer · Real-time Systems · Nepal 🇳🇵**
+**Backend Developer**
 
 *I build systems that scale — not just code that works.*
 
@@ -84,19 +75,6 @@ Backend developer focused on building **real-time, scalable systems** with clean
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greyy004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyy004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=greyy004&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
----
 
 ## 🎯 2025 Goals
 
