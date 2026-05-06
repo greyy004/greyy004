@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yuwa Shrestha 👾
+# Hi, I'm Yuwa Shrestha 
 
 **Backend Developer**
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 Backend developer focused on building **real-time, scalable systems** with clean architecture. I care deeply about how systems behave under load — not just whether they work in development.
 
-- 🔭 Currently building **CharacterAnswers** — an AI-powered character chat platform
-- ⚡ Designing room-based real-time communication systems from scratch
-- 🔐 Deep-diving into secure backend design: JWT, session management, auth flows
+-  Currently building **CharacterAnswers** — an AI-powered character chat platform
+-  Designing room-based real-time communication systems from scratch
+-  Deep-diving into secure backend design: JWT, session management, auth flows
 
 ---
 
@@ -54,9 +54,9 @@ Backend developer focused on building **real-time, scalable systems** with clean
 
 ---
 
-## 🚀 What I'm Building
+##  What I'm Building
 
-### 🤖 CharacterAnswers
+###  CharacterAnswers
 > AI chat platform where users interact with distinct AI-driven characters
 
 - Real-time messaging with **Socket.io**
@@ -64,23 +64,12 @@ Backend developer focused on building **real-time, scalable systems** with clean
 - **JWT-based auth**, session management, and secure room access
 - PostgreSQL for persistence, Node.js/Express backend
 
-### ⚡ Real-time Room System
-> Scalable pub/sub room architecture for concurrent multi-user chat
-
-- Room lifecycle management (create, join, leave, expire)
-- Event-driven backend with clean separation of concerns
-- Designed with horizontal scalability in mind
-
 ---
 
-
-## 🎯 2025 Goals
+##  2025 Goals
 
 - [ ] Ship **CharacterAnswers** publicly
 - [ ] Master distributed systems & system design fundamentals
 - [ ] Build a production-grade NestJS service
 - [ ] Make meaningful open source contributions
 
-<div align="center">
-  <sub>Built from Nepal 🇳🇵 · Backend first, always.</sub>
-</div>
