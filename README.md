@@ -78,22 +78,10 @@ Backend developer focused on building **real-time, scalable systems** with clean
 
 ## 🎯 2025 Goals
 
-- [ ] Ship **CharacterAnswers** v1.0 publicly
+- [ ] Ship **CharacterAnswers** publicly
 - [ ] Master distributed systems & system design fundamentals
 - [ ] Build a production-grade NestJS service
 - [ ] Make meaningful open source contributions
-- [ ] Write about what I learn — blog or devlog
-
----
-
-## 📬 Let's Connect
-
-I'm always open to collaborating on backend-heavy or real-time projects. If you're building something interesting, reach out.
-
-[![Email](https://img.shields.io/badge/shresthayuwa2@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shresthayuwa2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Yuwa_Shrestha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwa-shrestha-649020366/)
-
----
 
 <div align="center">
   <sub>Built from Nepal 🇳🇵 · Backend first, always.</sub>
