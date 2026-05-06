@@ -4,7 +4,7 @@
 
 **Backend Developer**
 
-*I build systems that scale — not just code that works.*
+I love to Code
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shresthayuwa2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuwa-shrestha-649020366/)
